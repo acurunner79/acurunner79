@@ -1,9 +1,9 @@
 ### Jorge Soto
 ### Software Engineer
 
-[Linkedin](http://www.linkedin.com/in/jorgelsotojr)
-[My Portfolio](https://www.jorgesotocoder.com)
-[My Resume](https://docs.google.com/document/d/1cHCoiVcES6uHkpnJ37Y4np6dteilCvuEUfaUDPhMQdY/edit?usp=sharing)
+- [Linkedin](http://www.linkedin.com/in/jorgelsotojr)
+- [My Portfolio](https://www.jorgesotocoder.com)
+- [My Resume](https://docs.google.com/document/d/1cHCoiVcES6uHkpnJ37Y4np6dteilCvuEUfaUDPhMQdY/edit?usp=sharing)
 
 ### 
 ### Pronouns:
