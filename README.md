@@ -1,5 +1,12 @@
-### Hi there 👋
+### Jorge Soto
+### Software Engineer
 
+[Linkedin](http://www.linkedin.com/in/jorgelsotojr)
+[My Portfolio](https://www.jorgesotocoder.com)
+[My Resume](https://docs.google.com/document/d/1cHCoiVcES6uHkpnJ37Y4np6dteilCvuEUfaUDPhMQdY/edit?usp=sharing)
+
+### 
+### Pronouns:
 <!--
 **acurunner79/acurunner79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +18,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
